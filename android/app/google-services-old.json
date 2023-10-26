@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "710664666655",
+    "firebase_url": "https://buzrides-default-rtdb.firebaseio.com",
+    "project_id": "buzrides",
+    "storage_bucket": "buzrides.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710664666655:android:9acbc9f383506234821f2a",
+        "android_client_info": {
+          "package_name": "com.buzrides.vr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710664666655-6ii9oq574l1f01rifrq6koqdknp9591j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsIq8oVsVRlw7cr9EIMCQexxUvUznANak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710664666655-6ii9oq574l1f01rifrq6koqdknp9591j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710664666655-g7rn2vqod8jedjb7itbcl40rfvcbqs6p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.buzridesdriver.vr"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710664666655:android:7db6ca6fe9376ad2821f2a",
+        "android_client_info": {
+          "package_name": "com.buzridesdriver.vr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710664666655-6ii9oq574l1f01rifrq6koqdknp9591j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsIq8oVsVRlw7cr9EIMCQexxUvUznANak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710664666655-6ii9oq574l1f01rifrq6koqdknp9591j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710664666655-g7rn2vqod8jedjb7itbcl40rfvcbqs6p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.buzridesdriver.vr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

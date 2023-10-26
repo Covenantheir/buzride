@@ -1,0 +1,125 @@
+PODS:
+  - connectivity_plus (0.0.1):
+    - Flutter
+    - ReachabilitySwift
+  - Firebase/CoreOnly (10.15.0):
+    - FirebaseCore (= 10.15.0)
+  - Firebase/Database (10.15.0):
+    - Firebase/CoreOnly
+    - FirebaseDatabase (~> 10.15.0)
+  - FirebaseCore (10.15.0):
+    - FirebaseCoreInternal (~> 10.0)
+    - GoogleUtilities/Environment (~> 7.8)
+    - GoogleUtilities/Logger (~> 7.8)
+  - FirebaseCoreInternal (10.15.0):
+    - "GoogleUtilities/NSData+zlib (~> 7.8)"
+  - FirebaseDatabase (10.15.0):
+    - FirebaseCore (~> 10.0)
+    - leveldb-library (~> 1.22)
+  - Flutter (1.0.0)
+  - flutter_local_notifications (0.0.1):
+    - Flutter
+  - fluttertoast (0.0.2):
+    - Flutter
+    - Toast
+  - GeoFire (4.3.0):
+    - GeoFire/Database (= 4.3.0)
+  - GeoFire/Database (4.3.0):
+    - Firebase/Database (~> 10.1)
+    - GeoFire/Utils
+  - GeoFire/Utils (4.3.0)
+  - GoogleUtilities/Environment (7.11.5):
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUtilities/Logger (7.11.5):
+    - GoogleUtilities/Environment
+  - "GoogleUtilities/NSData+zlib (7.11.5)"
+  - image_picker_ios (0.0.1):
+    - Flutter
+  - leveldb-library (1.22.2)
+  - package_info_plus (0.4.5):
+    - Flutter
+  - permission_handler_apple (9.1.1):
+    - Flutter
+  - PromisesObjC (2.3.1)
+  - ReachabilitySwift (5.0.0)
+  - share_plus (0.0.1):
+    - Flutter
+  - Toast (4.0.0)
+  - workmanager (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - connectivity_plus (from `.symlinks/plugins/connectivity_plus/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_local_notifications (from `.symlinks/plugins/flutter_local_notifications/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - GeoFire (from `https://github.com/mrdishant/geofire-objc`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - package_info_plus (from `.symlinks/plugins/package_info_plus/ios`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - share_plus (from `.symlinks/plugins/share_plus/ios`)
+  - workmanager (from `.symlinks/plugins/workmanager/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Firebase
+    - FirebaseCore
+    - FirebaseCoreInternal
+    - FirebaseDatabase
+    - GoogleUtilities
+    - leveldb-library
+    - PromisesObjC
+    - ReachabilitySwift
+    - Toast
+
+EXTERNAL SOURCES:
+  connectivity_plus:
+    :path: ".symlinks/plugins/connectivity_plus/ios"
+  Flutter:
+    :path: Flutter
+  flutter_local_notifications:
+    :path: ".symlinks/plugins/flutter_local_notifications/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  GeoFire:
+    :git: https://github.com/mrdishant/geofire-objc
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+  package_info_plus:
+    :path: ".symlinks/plugins/package_info_plus/ios"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  share_plus:
+    :path: ".symlinks/plugins/share_plus/ios"
+  workmanager:
+    :path: ".symlinks/plugins/workmanager/ios"
+
+CHECKOUT OPTIONS:
+  GeoFire:
+    :commit: 5054b6cfe35486a23111df37b37df67102243958
+    :git: https://github.com/mrdishant/geofire-objc
+
+SPEC CHECKSUMS:
+  connectivity_plus: 07c49e96d7fc92bc9920617b83238c4d178b446a
+  Firebase: 66043bd4579e5b73811f96829c694c7af8d67435
+  FirebaseCore: 2cec518b43635f96afe7ac3a9c513e47558abd2e
+  FirebaseCoreInternal: 2f4bee5ed00301b5e56da0849268797a2dd31fb4
+  FirebaseDatabase: f93f1481c7e9e3d77af960cdff82a408d37693e6
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  flutter_local_notifications: 0c0b1ae97e741e1521e4c1629a459d04b9aec743
+  fluttertoast: 31b00dabfa7fb7bacd9e7dbee580d7a2ff4bf265
+  GeoFire: f113536c90f581f89107c31ec1efde1a1cae3115
+  GoogleUtilities: 13e2c67ede716b8741c7989e26893d151b2b2084
+  image_picker_ios: 4a8aadfbb6dc30ad5141a2ce3832af9214a705b5
+  leveldb-library: f03246171cce0484482ec291f88b6d563699ee06
+  package_info_plus: fd030dabf36271f146f1f3beacd48f564b0f17f7
+  permission_handler_apple: e76247795d700c14ea09e3a2d8855d41ee80a2e6
+  PromisesObjC: c50d2056b5253dadbd6c2bea79b0674bd5a52fa4
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  share_plus: 599aa54e4ea31d4b4c0e9c911bcc26c55e791028
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  workmanager: 0afdcf5628bbde6924c21af7836fed07b42e30e6
+
+PODFILE CHECKSUM: 71021066bae035d1a3355e163ed77206d168b9c6
+
+COCOAPODS: 1.13.0

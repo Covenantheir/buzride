@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891879370888",
+    "project_id": "buzride-f8562",
+    "storage_bucket": "buzride-f8562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891879370888:android:2cdd224cceb9a6124e2f3d",
+        "android_client_info": {
+          "package_name": "com.buzrides.vr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBJCHEhKm3I4xL2Bbpgmf4-DJSC8WGfs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
